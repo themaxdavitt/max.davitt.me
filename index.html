@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Max Davitt</title>
+</head>
+<body>
+    <div id="container">
+        <h1 id="name">Max Davitt</h1>
+    </div>
+</body>
+<style>
+/* Partially stolen from: https://www.lullabot.com/articles/unexpected-power-of-viewport-units-in-css */
+body {
+    font-size: 16px;
+    font-family: 'Source Sans Pro', monospace;
+    margin: 0;
+}
+
+#container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+#name {
+    font-size: calc(100% + 5vw);
+}
+</style>
+</html>
