@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/themaxdavitt
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://max.davitt.me
+  * I am themaxdavitt (https://keybase.io/themaxdavitt) on keybase.
+  * I have a public key ASBwtK-rHJOfAaWd8yYjibeLsPQw3ttHrEhOSPlo27vyIAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012070b4afab1c939f01a59df3262389b78bb0f430dedb47ac484e48f968dbbbf2200a",
+      "host": "keybase.io",
+      "kid": "012070b4afab1c939f01a59df3262389b78bb0f430dedb47ac484e48f968dbbbf2200a",
+      "uid": "c84a4e1d19e8b05212c9bf11855aed19",
+      "username": "themaxdavitt"
+    },
+    "merkle_root": {
+      "ctime": 1579386478,
+      "hash": "95a9b82366d905155f01d25ce2b5cafb35dc3578b74e56a0a81407b2c3a8104af95068bea1a62c175ecf7f8b26dedde8e9a8c54250b699e577ebece4d935d8b1",
+      "hash_meta": "f1e6ba8cc8a17aa86040d53f7a83128f3c01c08ffc38b4c166b9e0e792f7a228",
+      "seqno": 14279199
+    },
+    "service": {
+      "entropy": "A41kXLqmhheelWpjluyYLYL/",
+      "hostname": "max.davitt.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1579386479,
+  "expire_in": 504576000,
+  "prev": "7db2e547cbd3dd05c25ec1d9bc9e64a19ef9a2a82c4f512e89acf67ae03f306a",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgcLSvqxyTnwGlnfMmI4m3i7D0MN7bR6xITkj5aNu78iAKp3BheWxvYWTESpcCBMQgfbLlR8vT3QXCXsHZvJ5koZ75oqgsT1Euiaz2euA/MGrEIELijY0f0zIWAEFSEmkRgHNvyvnwtSCbTKjO/zHSH2ZSAgHCo3NpZ8RAfoOUknYIWFLSqndiymg7tgtAsIjtTeI9ql+/89JAaZu6KOb0oPKpHtUI/tCfftc0LadTd/J95W0H8kqzJ7AyBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKHm5Q3TsN6I6VQcFFRVi377uiRYOVtUwzmqrV97FtOHo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/themaxdavitt
+
+==================================================================
